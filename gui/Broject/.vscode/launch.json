@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Application",
+            "request": "launch",
+            "mainClass": "application.Main",
+            "vmArgs": "--module-path c:\\JAVAFX\\javafx-sdk-21.0.7\\lib --add-modules javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing,javafx.web,javafx.base,javafx.swt --enable-native-access=javafx.graphics",
+        }
+    ]
+}
